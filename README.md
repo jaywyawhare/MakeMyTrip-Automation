@@ -1,4 +1,4 @@
-# Frugle SDE Assignment
+# MakeMyTrip Automation
 
 This is a simple web automation project using Selenium and java. The project is built using Maven as the build tool. The project is built using Page Object Model design pattern. The objective of the project is to automate the following scenarios:
 
@@ -13,7 +13,7 @@ This is a simple web automation project using Selenium and java. The project is 
 ## Folder Structure
 ```
 .
-├── frugal.jar
+├── automation.jar
 ├── pom.xml
 ├── README.md
 ├── src
@@ -54,7 +54,7 @@ This is a simple web automation project using Selenium and java. The project is 
 
 - Run the following command to run the project
     ```
-    java -jar frugal.jar
+    java -jar automation.jar
     ```
 
 - The project will run and the output will be displayed on the console.
